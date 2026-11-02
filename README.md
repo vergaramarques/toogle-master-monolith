@@ -76,6 +76,4 @@ https://miro.com/app/board/uXjVETe-kdo=/?share_link_id=749016279737
 ## Custo
 
 Link do custo mensal:
-https://miro.com/app/board/uXjVETe-kdo=/?share_link_id=749016279737
-
 https://calculator.aws/#/estimate?id=3edb298ff2d60f2dc365bfde126ade65006c13fa
