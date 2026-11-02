@@ -1,5 +1,8 @@
 # toogle-master-monolith
 atividade pós tech fiap - fase 1
+Link do vídeo:
+https://youtu.be/x1rR45rV_0M
+
 
 Analise o código e identifique por que ele é considerado um "monolito". Discuta as vantagens e desvantagens dessa abordagem para um MVP.
 
@@ -77,3 +80,8 @@ https://miro.com/app/board/uXjVETe-kdo=/?share_link_id=749016279737
 
 Link do custo mensal:
 https://calculator.aws/#/estimate?id=3edb298ff2d60f2dc365bfde126ade65006c13fa
+
+## Vídeo
+
+Link do vídeo:
+https://youtu.be/x1rR45rV_0M
