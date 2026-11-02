@@ -70,3 +70,6 @@ A criação da tabela é um comando pontual (`flask init-db`) que roda com o mes
 
 Link do diagrama no Miro:
 https://miro.com/app/board/uXjVETe-kdo=/?share_link_id=749016279737
+
+<img width="884" height="509" alt="image" src="https://github.com/user-attachments/assets/b58f07f3-904c-4f1b-b39b-94b42f5e944d" />
+
